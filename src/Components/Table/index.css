@@ -65,7 +65,7 @@
 }
 
 .tableheadContainer {
-  background: linear-gradient(278.75deg, #4776e6 10%, #8e54e9 100%);
+ background: linear-gradient(to right, #4776e6, #8e54e9);
   width: 922px;
   height: 62px;
   text-align: center;
