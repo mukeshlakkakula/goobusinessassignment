@@ -1,0 +1,44 @@
+{
+  "cardDetails": [
+    {
+      "img": "https://res-console.cloudinary.com/dnjp2exao/thumbnails/v1/image/upload/v1711640626/MDAyLWNhc2gucG5nX3UzNnQxag==/grid_landscape",
+      "top_num": "$9,568.00",
+      "bottom_text": "Total Balance"
+    },
+    {
+      "img": "https://res-console.cloudinary.com/dnjp2exao/thumbnails/v1/image/upload/v1711641214/MDAzLWNyZWRpdC1jYXJkLnBuZ19qZ3R3ZXA=/grid_landscape",
+      "top_num": "60%",
+      "bottom_text": "Discount Percentage"
+    },
+    {
+      "img": "https://res-console.cloudinary.com/dnjp2exao/thumbnails/v1/image/upload/v1711641240/MDAxLWRvbmF0aW9uLnBuZ19lN2l5eHI=/grid_landscape",
+      "top_num": "300",
+      "bottom_text": "Total Referral"
+    },
+    {
+      "img": "https://res-console.cloudinary.com/dnjp2exao/thumbnails/v1/image/upload/v1711641263/MDA0LWhvdXJnbGFzcy5wbmdfcGV2MXBk/grid_landscape",
+      "top_num": "$300",
+      "bottom_text": "Discount Amount"
+    },
+    {
+      "img": "https://res-console.cloudinary.com/dnjp2exao/thumbnails/v1/image/upload/v1711641282/MDA1LXBlcmNlbnRhZ2UucG5nX2NsdWN5cA==/grid_landscape",
+      "top_num": "$465.00",
+      "bottom_text": "Commission Amount"
+    },
+    {
+      "img": "https://res-console.cloudinary.com/dnjp2exao/thumbnails/v1/image/upload/v1711641314/MDA2LXdhZ2UucG5nX3F2bW02dQ==/grid_landscape",
+      "top_num": "$158.00",
+      "bottom_text": "Total Earning"
+    },
+    {
+      "img": "https://res-console.cloudinary.com/dnjp2exao/thumbnails/v1/image/upload/v1711641330/MDA3LXJlZmVycmFsLnBuZ19qODNkeXM=/grid_landscape",
+      "top_num": "40%",
+      "bottom_text": "Commission Discount"
+    },
+    {
+      "img": "https://res-console.cloudinary.com/dnjp2exao/thumbnails/v1/image/upload/v1711641347/MDA4LXRyYW5zZmVyLnBuZ19rc2ZtZXo=/grid_landscape",
+      "top_num": "$534.00",
+      "bottom_text": "Total Bank Transfer"
+    }
+  ]
+}

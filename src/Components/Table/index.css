@@ -1,0 +1,138 @@
+.tableTopText {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+
+  text-align: left;
+  color: #49596d;
+}
+
+.tableTopinput1 {
+  border: 1px solid #4776e6;
+  width: 80px;
+  height: 35px;
+  top: 852px;
+  left: 180.27px;
+  padding: 5.5px 3px 5.5px 16px;
+  gap: 0px;
+  border-radius: 6px;
+  opacity: 0px;
+  background: #efefef;
+  color: #4776e6;
+  margin-right: 15px;
+  margin-left: 5px;
+}
+
+.tableTopineerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tableTopinput2 {
+  border: 1px solid #4776e6;
+  width: 368px;
+  height: 35px;
+  top: 852px;
+  left: 180.27px;
+  padding: 5.5px 3px 5.5px 16px;
+  gap: 0px;
+  border-radius: 6px;
+  opacity: 0px;
+  background: #efefef;
+  color: #4776e6;
+  margin-right: 15px;
+  margin-left: 5px;
+}
+
+.tableTopContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 829px;
+  align-items: center;
+}
+
+.totalTableContainer {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.fullTebale {
+  width: 829px !important;
+}
+
+.tableheadContainer {
+  background: linear-gradient(278.75deg, #4776e6 10%, #8e54e9 100%);
+  width: 922px;
+  height: 62px;
+  text-align: center;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.headings {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+
+  padding-bottom: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #fff;
+}
+
+.tds {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 22.5px;
+  text-align: center;
+  color: #49596d;
+}
+
+.tableBottomContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 850px;
+  align-items: center;
+}
+
+.tableBtmspanEl {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: left;
+  color: #49596d;
+}
+
+.bottomBtns {
+  height: 40px;
+  top: 1572px;
+  left: 387px;
+  padding: 0px 20.7px 0px 21px;
+
+  border-radius: 6px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #4776e6;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  color: #4776e6;
+}
+
+.activeBtn {
+  background: linear-gradient(337.76deg, #4776e6 10%, #8e54e9 100%);
+  color: #ffffff;
+}
+
+.buttonsContainer {
+  display: flex;
+  gap: 10px;
+}

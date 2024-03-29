@@ -1,0 +1,131 @@
+.cardsFullContainer {
+  display: flex;
+  overflow: auto;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 35px;
+  width: 1200px;
+}
+
+.cardsOuterContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.referalContainer {
+  display: flex;
+  border-style: dashed;
+  justify-content: space-around;
+  border-width: 1px;
+  border-radius: 10px;
+  align-items: center;
+  height: 136px;
+  width: 1170px;
+}
+
+.referalp1 {
+  color: #49596d;
+  font-family: "Yantramanav", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.referalP2 {
+  font-family: "Yantramanav", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 33px;
+  text-align: center;
+  background: linear-gradient(303.04deg, #4776e6 10%, #8e54e9 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.ref3 {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 0 0 20px 0;
+}
+
+.refh2 {
+  font-family: "Yantramanav", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 34px;
+  letter-spacing: 0.5px;
+
+  color: #49596d;
+}
+
+.ref3inner {
+  width: 770px;
+  height: 54px;
+  top: 480px;
+  left: 15px;
+  padding: 0 0 20px 0;
+  border-bottom: 1px solid black;
+  opacity: 0.5;
+  text-align: left;
+}
+
+.referalLinkContainer {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.reflinkPara {
+  font-family: "Yantramanav", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 34px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #49596d;
+}
+
+.inputReferal1 {
+  border: 1px solid #888888;
+  width: 654px;
+  height: 45px;
+  top: 631px;
+  left: 19px;
+  padding: 12px 121px 12px 31px;
+
+  border-radius: 50px;
+  border: 1px 0px 0px 0px;
+}
+
+.copyBtn {
+  background: linear-gradient(323.76deg, #4776e6 10%, #8e54e9 100%);
+  width: 101px;
+  height: 45px;
+  top: 631px;
+  left: 686px;
+  border: 0px;
+  border-radius: 50px;
+  margin-left: 10px;
+  font-family: "Yantramanav", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #ffffff;
+
+  text-align: center;
+}
+
+.inputReferal2 {
+  border: 1px solid #888888;
+  width: 200px;
+  height: 45px;
+  top: 631px;
+  left: 19px;
+  padding: 12px 121px 12px 31px;
+
+  border-radius: 50px;
+  border: 1px 0px 0px 0px;
+}
